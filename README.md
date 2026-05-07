@@ -1,9 +1,7 @@
 # CSC4005 Lab 3 – Environmental Sound Classification with 1D-CNN
 
-Starter kit này dành cho **Lab 3 của Bài 4 – 1D-CNN** trong học phần CSC4005.  
-Lưu ý: đây là **Lab 3** vì bài đầu tiên của course không có lab.
 
-Case study chính: **UrbanSound8K** – phân loại 10 loại âm thanh môi trường.
+Case study: **UrbanSound8K** – phân loại 10 loại âm thanh môi trường.
 
 Trọng tâm của lab:
 - tiền xử lý audio về cùng sample rate và độ dài,
