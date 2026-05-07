@@ -26,7 +26,7 @@ csc4005_lab3_urbansound8k_1dcnn_starter/
 │   ├── fast_debug.json
 │   └── extension_raw_waveform.json
 ├── docs/
-│   ├── GITHUB_CLASSROOM_GUIDE.md
+│   ├── RUBRIC.md
 │   ├── WANDB_GUIDE.md
 │   └── LAB_GUIDE_LAB3.md
 ├── notebooks/
